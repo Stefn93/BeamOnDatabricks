@@ -1,5 +1,5 @@
 # BeamOnDatabricks
-This repository provides a demo of my walk-through about running an Apache Beam Pipeline on Azure Databricks.
+This repository provides a demo of my walk-through on how to run an Apache Beam Pipeline on Azure Databricks.
 
 1. Import Maven Project
 2. Setup project's JDK to 1.8
